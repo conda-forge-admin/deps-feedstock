@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: 3.10
-  version: 1.6.0
+  version: "1.7.0"
 
 package:
   name: deps
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://github.com/ESSS/deps/archive/v${{ version }}.tar.gz
-  sha256: d5e004025c1dc2f4aebc0ec259e8789e89800d6aa936c6601d606d2d740f03c2
+  sha256: c4868d2572ae247167587e98ec4a633625c542b8bd3a15f5b3e0221c8e09f838
 
 build:
   number: 0

@@ -17,10 +17,11 @@ Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2847&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/deps-feedstock?branchName=main">
+      <a href="https://github.com/conda-forge/deps-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/deps-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
       </a>
     </td>
   </tr>
@@ -150,7 +151,4 @@ Feedstock Maintainers
 * [@nicoddemus](https://github.com/nicoddemus/)
 * [@prusse-martin](https://github.com/prusse-martin/)
 * [@tadeu](https://github.com/tadeu/)
-
-
-<!-- dummy commit to enable rerendering -->
 
